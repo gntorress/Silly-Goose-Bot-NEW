@@ -125,7 +125,7 @@ Because 90% of Discord bot problems are one of those. There are some built in de
 
 ## Future ideas
 
-Stuff I might add later:
+Improvements I might add later:
 
 * More admin tools
 * Goose related fun facts
@@ -135,4 +135,4 @@ Stuff I might add later:
 
 ## License
 
-Go ham
+N/A
